@@ -1,0 +1,108 @@
+body {
+    text-align: center;
+    background: radial-gradient(#ff0000, #000000);
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+}
+
+.fancy-button {
+    padding: 10px 20px 10px 20px;
+    border: ridge orange;
+    border-radius: 20px;
+    background: linear-gradient(rgb(255, 102, 0), red);
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    margin-top: 10px;
+    margin-right: 1725px;
+    cursor: pointer;
+}
+
+.triby-pfp {
+    border-radius: 20px;
+    margin-bottom: 30px;
+    width: 250px;
+    height: 250px;
+    border: ridge 8px rgb(206, 0, 0);
+    box-shadow: 0 0 10px 5px black;
+
+}
+
+div {
+   width: 500px;
+   height: 190px;
+   background-color: #ff00ff;
+   border: solid;
+   margin: 0 auto;
+   border-radius: 10px;
+   box-shadow: black 5px 5px 10px 1px;
+}
+
+.owners-div {
+   width: 900px;
+   height: 290px;
+   background-color: #a5a5a5a8;
+   border: solid;
+   margin: 0 auto;
+   border-radius: 10px;
+   margin: 30px auto;
+   box-shadow: black 5px 5px 10px 1px;
+   text-align: start;
+}
+
+p {
+    margin: 10px;
+}
+
+.p-div {
+    text-align: center;
+    margin-top: -270px;
+    margin-left: 300px;
+    text-align: start;
+}
+
+.p-div2 {
+    text-align: center;
+    margin-top: -5px;
+    margin-left: 300px;
+    text-align: start;
+}
+
+a {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    border-radius: 30px;
+    background-color: aliceblue;
+    padding: 5px;
+    border: solid 2px;
+    display: block;
+    width: 300px;
+    margin: 0 auto;
+}
+
+.triby-a {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    font-size: 30px;
+    border-radius: 30px;
+    background-color: aliceblue;
+    padding: 5px;
+    border: solid 2px;
+    width: 300px;
+    margin-top: -40px;
+}
+
+img {
+    border-radius: 20px;
+    margin: 10px;
+    width: 250px;
+    height: 250px;
+    border: ridge 8px rgb(206, 0, 0);
+}
+
+iframe {
+    width: 300px;
+    height: 300px;
+    border-radius: 20px;
+    border: solid 3px;
+}
